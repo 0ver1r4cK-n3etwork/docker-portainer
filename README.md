@@ -45,7 +45,6 @@
   `
   
   /!\ IF U ARE A ERROR 
-  
   /!\ `
   sudo chmod a+r /etc/apt/keyrings/docker.gpg
   `
