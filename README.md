@@ -44,7 +44,7 @@
   sudo apt-get update
   `
   
-  /!\ IF U ARE A ERROR 
+  /!\ IF U ARE A ERROR <br>
   /!\ `
   sudo chmod a+r /etc/apt/keyrings/docker.gpg
   `
