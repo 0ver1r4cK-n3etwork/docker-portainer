@@ -94,4 +94,4 @@
  `
  
  copy ur ipv4 address and paste to ur browser w/ port (9443)<br>
- <i>exemple: 192.168.1.55:9443</i>
+ <i>example: 192.168.1.55:9443</i>
